@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasfr-dev/nicolasfr-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasfr-dev/nicolasfr-dev/output/pacman-contribution-graph.svg">
@@ -19,41 +21,41 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="105" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="75" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="105" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="75" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="105" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="75" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="105" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="75" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="105" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="75" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="105" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="75" alt="azure logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="105" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="75" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="105" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="75" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="105" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="75" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="105" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="75" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="105" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="75" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="105" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="75" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="105" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="75" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="105" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="75" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="105" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="75" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="105" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="75" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="105" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="75" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="105" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="75" alt="visualstudio logo"  />
 </div>
 
 ###
