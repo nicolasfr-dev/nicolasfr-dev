@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">- 💻Developer Full-Stack<br>- 🌱 Now studying Next.JS, TypeScript and C# <br>- 📖 PT-BR / ENG</h3>
+<h3 align="center">- 💻Developer Full-Stack<br> - 📖 PT-BR / ENG</h3>
 
 ###
 
